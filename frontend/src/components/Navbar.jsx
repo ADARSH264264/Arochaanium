@@ -9,10 +9,14 @@ export default function Navbar() {
       <div className="flex justify-between items-center px-6 py-4">
         {/* Logo */}
         <div className="flex items-center gap-2">
-          <span className="text-yellow-500 text-3xl">👷</span>
+           <img 
+    src="/src/assets/LOGO AR.jpeg"  
+    alt="Arochaanium Logo" 
+    className="w-20 h-20 object-contain"
+  />
           <div>
-            <h1 className="text-xl font-bold">Davana</h1>
-            <p className="text-sm text-gray-500">Industrial & Construction</p>
+            <h1 className="text-xl font-bold">AROCHAANIUM </h1>
+            <p className="text-sm text-gray-500">INDUSTRIES PVT.LTD</p>
           </div>
         </div>
 

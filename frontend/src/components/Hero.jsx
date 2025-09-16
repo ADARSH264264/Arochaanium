@@ -73,19 +73,19 @@ const containerVariants = {
   const slides = [
     {
       title: "GROW YOUR IDEA",
-      subtitle: "DAVANA REAL ESTATE",
+      subtitle: "AROCHAANIUM INDUSTRIES PVT.LTD",
       desc: "Transform your vision into reality with our premium properties and innovative solutions tailored to your needs.",
       img: "https://images.unsplash.com/photo-1581091215367-59ab6d6e7c13",
     },
     {
       title: "BUILD YOUR FUTURE",
-      subtitle: "DAVANA REAL ESTATE",
+      subtitle: "AROCHAANIUM INDUSTRIES PVT.LTD",
       desc: "We provide the best industrial & construction services with decades of expertise and cutting-edge technology.",
       img: "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc",
     },
     {
       title: "LUXURY LIVING SPACES",
-      subtitle: "DAVANA REAL ESTATE",
+      subtitle: "AROCHAANIUM INDUSTRIES PVT.LTD",
       desc: "Discover exceptional homes designed for modern living, combining elegance, comfort, and sustainability.",
       img: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9",
     },
