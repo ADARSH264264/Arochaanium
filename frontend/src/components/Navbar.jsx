@@ -9,11 +9,13 @@ export default function Navbar() {
       <div className="flex justify-between items-center px-6 py-4">
         {/* Logo */}
         <div className="flex items-center gap-2">
-           <img 
-    src="/src/assets/LOGO AR.jpeg"  
-    alt="Arochaanium Logo" 
-    className="w-20 h-20 object-contain"
-  />
+ <img 
+  src="/logo-ar.jpeg"  
+  alt="Arochaanium Logo" 
+  className="w-20 h-20 object-contain"
+/>
+
+
           <div>
             <h1 className="text-xl font-bold">AROCHAANIUM </h1>
             <p className="text-sm text-gray-500">INDUSTRIES PVT.LTD</p>
